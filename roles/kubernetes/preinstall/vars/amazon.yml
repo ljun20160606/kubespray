@@ -1,6 +1,6 @@
 ---
 required_pkgs:
-  - libselinux-python
+  - libselinux-python3
   - device-mapper-libs
   - nss
   - conntrack-tools
